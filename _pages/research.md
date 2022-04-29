@@ -11,7 +11,6 @@ redirect_from:
 
 ## Works in progress
 **The long-term effects of teachers' gender bias**
-
 Coverage: [National Television of Peru](https://www.youtube.com/watch?v=7Ahmv8v4ZYI&t=60s) ,[Correo](https://diariocorreo.pe/peru/universidad-de-berkeley-california-convoca-a-escolares-y-profesores-para-proyecto-internacional-noticia/?fbclid=IwAR39GczNzLDTHVLlIv6tR4rc6FFQd2Rmn_7NNedI1es9iva2ZOVRR-4YFIs)
 
 The origins of racial discrimination in U.S. labor markets: evidence from 6.5 million vacancy postings
