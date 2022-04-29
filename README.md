@@ -1,3 +1,3 @@
 ### Joan J. Martinez
 
-I am a Ph.D. candidate in the Economics Department at UC Berkeley. Before my doctoral studies, I received my MSc degree in Economics at University College London and B.A. at Universidad del Pacífico in Peru. I have worked as a research associate at Universidad del Pacífico and as an evaluation specialist in Peru's Ministry of Economics and Finance. In addition, I have been awarded a Chevening Fellowship Award from the Foreign, Commonwealth, and Development Office (FCDO) in the United Kingdom.
+I am a Ph.D. candidate in the Economics Department at UC Berkeley. 
