@@ -13,3 +13,5 @@ redirect_from:
 Before my doctoral studies, I was an evaluation specialist in Peru's Ministry of Economics and Finance and research associate at Universidad del Pacífico. I received an MSc degree in Economics at University College London, a Diploma in Applied Mathematics at PUCP, and  B.Sc at Universidad del Pacífico in Peru.
 
 For more information, please see my CV.
+
+Email: [martinezp_jj@berkeley.edu](martinezp_jj@berkeley.edu)
