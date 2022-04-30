@@ -11,7 +11,7 @@ title                    : "Joan J. Martinez"
 title_separator          : "-"
 name                     : &name "Joan J. Martinez"
 description              : &description "Research, Teaching, and Resources"
-url                      : https://jjennifer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jmartinez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jjennifer/jjennifer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,10 +85,10 @@ author:
   bio              : "I am a Ph.D. candidate in the Economics Department at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            :
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
