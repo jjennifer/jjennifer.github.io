@@ -20,3 +20,6 @@ Central Bank Independence, 1800-2021: Evidence from Central Bank Acts, with [Bar
 ## Published and accepted work
 [Does Education Increase Risk Aversion in Households? Some Evidence Using Artefactual Experiments in Peru](https://ojs.latinaer.org/laer/article/view/22), with Alberto Chong
 _Latin American Economic Review 30 (2021): 1-19._
+
+## Book chapters
+Lavado, P., Martinez, J. J., Yamada, G. (2016). [Higher education quality and unequal returns in Peru](https://repositorio.up.edu.pe/handle/11354/1495). En Céspedes, N., Lavado, P. & Roldán, N. (Eds.), _Productivity in Peru: measurement, determinants and implications_ (pp. 221-249). Universidad del Pacífico, 2016.
