@@ -22,4 +22,4 @@ Central Bank Independence, 1800-2021: Evidence from Central Bank Acts, with [Bar
 _Latin American Economic Review 30 (2021): 1-19._
 
 ## Book chapters
-Lavado, P., Martinez, J. J., Yamada, G. (2016). [Higher education quality and unequal returns in Peru](https://repositorio.up.edu.pe/handle/11354/1495). En Céspedes, N., Lavado, P. & Roldán, N. (Eds.), _Productivity in Peru: measurement, determinants and implications_ (pp. 221-249). Universidad del Pacífico, 2016.
+Lavado, P., Martinez, J. J., Yamada, G. (2016). [Higher education quality and unequal returns in Peru](http://hdl.handle.net/11354/1495). En Céspedes, N., Lavado, P. & Roldán, N. (Eds.), _Productivity in Peru: measurement, determinants and implications_ (pp. 221-249). Universidad del Pacífico, 2016.
