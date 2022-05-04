@@ -14,4 +14,4 @@ Before my doctoral studies, I was an evaluation specialist in Peru's Ministry of
 
 For more information, please see my CV.
 
-Email: [martinezp_jj@berkeley.edu](martinezp_jj@berkeley.edu)
+Email: [martinezp_jj@berkeley.edu](mailto:martinezp_jj@berkeley.edu)
