@@ -9,7 +9,7 @@ redirect_from:
 
   {% include base_path %}
 
-## Research partners
+## Research implementation partners
 [Ministry of Education of Peru](https://www.gob.pe/minedu)<br>
 [Ministry of Labor of Peru](https://www.gob.pe/mtpe)<br>
 [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)<br>
