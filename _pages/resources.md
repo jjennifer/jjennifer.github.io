@@ -13,9 +13,9 @@ redirect_from:
 [MineduLAB](http://www.minedu.gob.pe/minedulab/)<br>
 [Ministry of Education of Peru](https://www.gob.pe/minedu)<br>
 [Ministry of Labor of Peru](https://www.gob.pe/mtpe)
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="120"><br>
+<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="120"><br>
 [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="120">
+<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="120">
 
 ## Opinion
 [Data and transparency to fight the coronavirus](https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus), With Gabriel Carrasco, José Incio, Andree Valle Campos, Mateo Prochazka, and César Ugarte. _Public Eye_ (2020, March 30)
