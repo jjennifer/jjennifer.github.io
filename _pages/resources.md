@@ -19,8 +19,6 @@ redirect_from:
 
 
 ## Opinion
-[Data and transparency to fight the coronavirus](https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus), With Gabriel Carrasco, José Incio, Andree Valle Campos, Mateo Prochazka, and César Ugarte. _Public Eye_ (2020, March 30)
-
-[Cash transfers to face the pandemic: progress, challenges and next steps](https://ojo-publico.com/1852/los-bonos-para-encarar-la-pandemia-avances-retos-y-siguientes-pasos). _Public Eye_ (2020, June 7)
-
+[Data and transparency to fight the coronavirus](https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus), With Gabriel Carrasco, José Incio, Andree Valle Campos, Mateo Prochazka, and César Ugarte. _Public Eye_ (2020, March 30)<br>
+[Cash transfers to face the pandemic: progress, challenges and next steps](https://ojo-publico.com/1852/los-bonos-para-encarar-la-pandemia-avances-retos-y-siguientes-pasos). _Public Eye_ (2020, June 7)<br>
 [University or technical institute? Time for education reform](https://elcomercio-pe.translate.goog/economia/peru/universidad-instituto-hora-reforma-educacion-209625-noticia/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc), with Gustavo Yamada. _El Comercio_ (2016, January 31)
