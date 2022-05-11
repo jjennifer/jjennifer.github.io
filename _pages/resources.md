@@ -17,6 +17,7 @@ redirect_from:
 [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)
 <img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="120"><br>
 
+
 ## Opinion
 [Data and transparency to fight the coronavirus](https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus), With Gabriel Carrasco, José Incio, Andree Valle Campos, Mateo Prochazka, and César Ugarte. _Public Eye_ (2020, March 30)
 
