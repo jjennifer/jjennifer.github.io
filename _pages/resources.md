@@ -17,9 +17,9 @@ redirect_from:
 
 I have developed the educational platform *Opportunities for everyone* in partnership with MineduLAB <br>
 <figure class="third">
-	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="100">
-	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px;" src="/images/SUNEDU.png" width="100">
-	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px;" src="/images/OPT_3.0.png" width="100">
+	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="50">
+	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px;" src="/images/SUNEDU.png" width="50">
+	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px;" src="/images/OPT_3.0.png" width="50">
 </figure>
 
 
