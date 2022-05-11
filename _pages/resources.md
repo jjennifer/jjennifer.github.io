@@ -15,7 +15,7 @@ redirect_from:
 [Ministry of Labor of Peru](https://www.gob.pe/mtpe)
 <img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="120"><br>
 [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)
-<img class="img-responsive" style="float: center; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="120"><br>
+<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="120"><br>
 
 
 ## Opinion
