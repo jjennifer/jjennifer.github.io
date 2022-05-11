@@ -10,9 +10,10 @@ redirect_from:
   {% include base_path %}
 
 ## Research partners
-[MineduLAB](http://www.minedu.gob.pe/minedulab/) of the [Ministry of Education of Peru](https://www.gob.pe/minedu)
+[MineduLAB](http://www.minedu.gob.pe/minedulab/)<br>
+[Ministry of Education of Peru](https://www.gob.pe/minedu)<br>
 [Ministry of Labor of Peru](https://www.gob.pe/mtpe)
-<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="100">
+<img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="100"><br>
 [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)
 <img class="img-responsive" style="float: left; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="100">
 
