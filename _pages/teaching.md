@@ -18,4 +18,4 @@ I served as a Graduate Student Instructor (GSI) for the following courses:
 # Universidad del Pacífico, Peru
 I worked as teaching assistant
 * Advance econometrics: structural estimation methods discrete-choice dynamic (graduate) with Pablo Lavado
-* 
+* Econometrics I (undergraduate) with Pablo Lavado
