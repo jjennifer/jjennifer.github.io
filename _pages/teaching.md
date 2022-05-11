@@ -16,4 +16,6 @@ I served as a Graduate Student Instructor (GSI) for the following courses:
 * The World Economy in the Twentieth Century (ECON115) with Barry Eichengreen, Spring 2019, Spring 2022
 
 # Universidad del Pacífico, Peru
+I worked as teaching assistant
+* Advance econometrics: structural estimation methods discrete-choice dynamic (graduate) with Pablo Lavado
 * 
