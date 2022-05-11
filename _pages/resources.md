@@ -11,8 +11,8 @@ redirect_from:
 
 ## Research partners
 [Ministry of Education of Peru](https://www.gob.pe/minedu)<br>
-<img class="img-responsive" style="float: right; margin: 0px 20px 20px 10px;" src="/images/MTPE-800px-PCM-Trabajo.png" width="120"> [Ministry of Labor of Peru](https://www.gob.pe/mtpe)<br>
-<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px;" src="/images/SUNEDU.png" width="120"> [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)<br>
+[Ministry of Labor of Peru](https://www.gob.pe/mtpe)<br>
+[Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)<br>
 
 I have developed the educational platform *Opportunities for everyone* in partnership with [MineduLAB](http://www.minedu.gob.pe/minedulab/)<br>
 <figure class="third">
