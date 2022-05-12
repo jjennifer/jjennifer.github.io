@@ -9,8 +9,8 @@ redirect_from:
 
   {% include base_path %}
 
-## Opportunities for everyone: a new education platform for studying discrimination
-In partnership with MineduLAB, I developed the educational platform [Opportunities for everyone](https://www.oportunidadesparatodos.pe). to characterize barriers to access higher education, study discrimination in public schools, and construct equal opportunities. The platform is available for public high school students and teachers in Peru. More about the platform [here](https://www.oportunidadesparatodos.pe/sobre-el-proyecto/). <br>
+## Opportunities for everyone: a new education platform
+In partnership with MineduLAB, I developed the educational platform [Opportunities for everyone](https://www.oportunidadesparatodos.pe). The platform seeks to contribute to constructing an education with equal opportunities. It allows understanding of biased behaviors in public schools and broadly characterizes barriers to accessing higher education in Peru. The information is being used to design policies to promote more equitable access to higher education. More about the platform [here](https://www.oportunidadesparatodos.pe/sobre-el-proyecto/).<br>
 <figure class="third">
 	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px; width:20%" src="/images/OPT_3.0.png" width="50">
 </figure>
