@@ -9,6 +9,12 @@ redirect_from:
 
   {% include base_path %}
 
+## Opportunities for everyone: a new education platform
+In partnership with MineduLAB, I developed the educational platform [Opportunities for everyone](https://www.oportunidadesparatodos.pe). It is available for public highschool school students and teachers in Peru. <br>
+<figure class="third">
+	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px; width:20%" src="/images/OPT_3.0.png" width="50">
+</figure>
+
 ## Research implementation partners
 [Educational Policy Innovation Laboratory (MineduLAB)](http://www.minedu.gob.pe/minedulab/) <br>
 [Ministry of Education of Peru](https://www.gob.pe/minedu)<br>
@@ -18,13 +24,6 @@ redirect_from:
 	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px; width:20%;" src="/images/MTPE-800px-PCM-Trabajo.png" width="50">
 	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px; width:20%" src="/images/SUNEDU.png" width="50">
 </figure>
-
-## Opportunities for everyone: a new education platform
-In partnership with MineduLAB, I developed the educational platform [Opportunities for everyone](https://www.oportunidadesparatodos.pe). It is available for public highschool school students and teachers in Peru. <br>
-<figure class="third">
-	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px; width:20%" src="/images/OPT_3.0.png" width="50">
-</figure>
-
 
 ## Opinion
 [Data and transparency to fight the coronavirus](https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus), With Gabriel Carrasco, José Incio, Andree Valle Campos, Mateo Prochazka, and César Ugarte. _Public Eye_ (2020, March 30)<br>
