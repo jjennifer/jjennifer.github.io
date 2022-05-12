@@ -15,11 +15,11 @@ redirect_from:
 [Ministry of Labor of Peru](https://www.gob.pe/mtpe)<br>
 [Peruvian National Council of Higher Education](https://www.gob.pe/sunedu)<br>
 
-I developed the teacher and student educational platform [Opportunities for everyone](https://www.oportunidadesparatodos.pe) in partnership with MineduLAB <br>
+In partnership with MineduLAB, I developed the educational platform [Opportunities for everyone](https://www.oportunidadesparatodos.pe). It is available for public highschool school students and teachers in Peru. <br>
 <figure class="third">
 	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 0px; width:20%;" src="/images/MTPE-800px-PCM-Trabajo.png" width="50">
-	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px;" src="/images/SUNEDU.png" width="50">
-	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px;" src="/images/OPT_3.0.png" width="50">
+	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px; width:20%" src="/images/SUNEDU.png" width="50">
+	<img class="img-responsive" style="float: right; margin: 0px 20px 20px 00px; width:20%" src="/images/OPT_3.0.png" width="50">
 </figure>
 
 
