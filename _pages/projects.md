@@ -8,6 +8,44 @@ redirect_from:
 ---
 
   {% include base_path %}
+  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-oe15">x</th>
+    <th class="tg-oe15">x</th>
+    <th class="tg-oe15">x</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-oe15">y</td>
+    <td class="tg-oe15">y</td>
+    <td class="tg-oe15">y</td>
+  </tr>
+  <tr>
+    <td class="tg-oe15">w</td>
+    <td class="tg-oe15">w</td>
+    <td class="tg-oe15">w</td>
+  </tr>
+  <tr>
+    <td class="tg-oe15">1</td>
+    <td class="tg-oe15">1</td>
+    <td class="tg-oe15">1</td>
+  </tr>
+</tbody>
+</table>  
+  
+  
+  
 
 |<img style = "display:block; margin-left:auto; margin-right:auto" src="/images/project1.png" width="330" height="100">| <img style = "display:block; margin-left:auto; margin-right:auto" src="/images/project1.png" width="330" height="100">| <img style = "display:block; margin-left:auto; margin-right:auto" src="/images/project1.png" width="330" height="100">|
 | *Project 1*| *Tachyons for Style*|*Bakeoff*|
