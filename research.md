@@ -22,12 +22,7 @@ Central Bank Independence, 1800-2021: Evidence from Central Bank Acts, with [Bar
 [Does Education Increase Risk Aversion in Households? Some Evidence Using Artefactual Experiments in Peru](https://ojs.latinaer.org/laer/article/view/22), with Alberto Chong <br>
 _Latin American Economic Review 30 (2021): 1-19._
 
-<<<<<<< HEAD
-
-<details>
-=======
 <!-- <details>
->>>>>>> 480a1a4e9484d61cc471def7b15eeb8f9dc8e565
 <summary> A brief summary</summary>
 <br>
 Insert text.
