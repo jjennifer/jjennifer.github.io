@@ -14,6 +14,8 @@ I am a Ph.D. candidate in the Economics Department at UC Berkeley. I work on top
 
 Before my doctoral studies, I was an evaluation specialist in Peru's Ministry of Economics and Finance and research associate at Universidad del Pacífico. I received an MSc degree in Economics at University College London, a Diploma in Applied Mathematics at PUCP, and  B.Sc at Universidad del Pacífico in Peru.
 
+Currently I am a research [WAPPP Fellow](https://wappp.hks.harvard.edu/people/joan-mart%C3%ADnez) at Harvard Kennedy School.
+
 For more information, please see my CV.
 
 Email: [martinezp_jj@berkeley.edu](mailto:martinezp_jj@berkeley.edu)
