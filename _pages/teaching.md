@@ -10,12 +10,12 @@ redirect_from:
   {% include base_path %}
 
 ## UC Berkeley
-I served as a Graduate Student Instructor (GSI) for the following courses:
-* Introduction to Economics (ECON1) with Martha Olney, Spring 2018
-* Topics in Economic Research (ECON191) with Barry Eichengreen, Fall 2020
-* The World Economy in the Twentieth Century (ECON115) with Barry Eichengreen, Spring 2019, Spring 2022
+Graduate Student Instructor:
+* Introduction to Economics (ECON1) (undergraduate economics), Spring 2018
+* Topics in Economic Research (ECON191) (undergraduate economics, undergraduate thesis), Fall 2020
+* The World Economy in the Twentieth Century (ECON115) (upper division undergraduate economic history), Spring 2019, Spring 2022
 
 ## Universidad del Pacífico, Peru
-I worked as teaching assistant in the following courses:
-* Advance econometrics: structural estimation methods discrete-choice dynamic (graduate) with Pablo Lavado
-* Econometrics I (undergraduate) with Pablo Lavado
+Teaching Assistant:
+* Econometrics (undergraduate economics)
+* Advance Econometrics (graduate econometrics)
