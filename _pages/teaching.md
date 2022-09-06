@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -19,3 +19,5 @@ Graduate Student Instructor:
 Teaching Assistant:
 * Econometrics (undergraduate economics)
 * Advance Econometrics (graduate econometrics)
+
+##
