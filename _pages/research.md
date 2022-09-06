@@ -24,10 +24,10 @@ _Latin American Economic Review 30 (2021): 1-19._
 
 Lavado, P., Martinez, J. J., Yamada, G. (2016). [Higher education quality and unequal returns in Peru](http://hdl.handle.net/11354/1495). En Céspedes, N., Lavado, P. & Roldán, N. (Eds.), _Productivity in Peru: measurement, determinants and implications_ (pp. 221-249). Universidad del Pacífico, 2016.
 
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD
 
 <details>
-=======
+======= -->
 <!-- <details>
 >>>>>>> 480a1a4e9484d61cc471def7b15eeb8f9dc8e565
 <summary> A brief summary</summary>
