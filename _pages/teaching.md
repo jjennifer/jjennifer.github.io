@@ -17,9 +17,10 @@ Graduate Student Instructor:
 
 ## Universidad del Pacífico, Peru
 Teaching Assistant:
-* Econometrics, _undergraduate economics_,
-* Advance Econometrics, _graduate econometrics_,
+* Econometrics, _undergraduate economics_, Fall 2015
+* Advance Econometrics, _graduate econometrics_, Spring 2014
+* Public Policy Analysis and Impact Evaluation, _undergraduate economics_, Fall 2013
 
-## Professional service
-UC Berkeley Economics Department Committee on Climate, Equity, Diversity, and Inclusion: _Graduate Student Representative_, Fall 2021-23
-Student Organization Berkeley Economists for Equity, _co-president_, 2021-22
+## Professional Service
+* Graduate Student Representative, _UC Berkeley Economics Department Committee on Climate, Equity, Diversity, and Inclusion_, Fall 2021-23
+* Co-president, _Berkeley Economists for Equity_, 2021-22
