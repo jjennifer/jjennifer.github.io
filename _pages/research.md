@@ -11,10 +11,10 @@ redirect_from:
 
 ## Work in progress
 
-The long-term effects of teachers' gender bias <br>
+The Long-Term Effects of Teachers' Gender Bias <br>
 Media coverage: [National Television of Peru](https://www.youtube.com/watch?v=7Ahmv8v4ZYI&t=128s), [Peruvian Official Newspaper](https://andina.pe/agencia/noticia-joan-martinez-peruana-promueve-acceso-equitativo-a-educacion-superior-897527.aspx)
 
-The origins of racial discrimination in U.S. labor markets: evidence from 6.5 million vacancy postings
+The Origins of Racial Discrimination in U.S. Labor Markets: Evidence from 6.5 Million Vacancy Postings
 
 Central Bank Independence, 1800-2021: Evidence from Central Bank Acts, with [Barry Eichengreen](https://eml.berkeley.edu/~eichengr/) and [Nergiz Dincer](https://www.tedu.edu.tr/en/nazire-nergiz-dincer)
 
@@ -22,7 +22,7 @@ Central Bank Independence, 1800-2021: Evidence from Central Bank Acts, with [Bar
 [Does Education Increase Risk Aversion in Households? Some Evidence Using Artefactual Experiments in Peru](https://ojs.latinaer.org/laer/article/view/22), with Alberto Chong <br>
 _Latin American Economic Review 30 (2021): 1-19._
 
-Lavado, P., Martinez, J. J., Yamada, G. (2016). [Higher education quality and unequal returns in Peru](http://hdl.handle.net/11354/1495). En Céspedes, N., Lavado, P. & Roldán, N. (Eds.), _Productivity in Peru: measurement, determinants and implications_ (pp. 221-249). Universidad del Pacífico, 2016.
+Lavado, P., Martinez, J. J., Yamada, G. (2016). [Higher Education Quality and Unequal Returns in Peru](http://hdl.handle.net/11354/1495). En Céspedes, N., Lavado, P. & Roldán, N. (Eds.), _Productivity in Peru: measurement, determinants and implications_ (pp. 221-249). Universidad del Pacífico, 2016.
 
 <!-- <<<<<<< HEAD
 
