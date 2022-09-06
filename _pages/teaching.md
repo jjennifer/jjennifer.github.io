@@ -11,9 +11,9 @@ redirect_from:
 
 ## UC Berkeley
 Graduate Student Instructor:
-* Introduction to Economics (ECON1) (undergraduate economics), Spring 2018
-* Topics in Economic Research (ECON191) (undergraduate economics, undergraduate thesis), Fall 2020
-* The World Economy in the Twentieth Century (ECON115) (upper division undergraduate economic history), Spring 2019, Spring 2022
+* Introduction to Economics ECON1, _undergraduate economics_, Spring 2018
+* Topics in Economic Research ECON191, _undergraduate economics, undergraduate thesis_, Fall 2020
+* The World Economy in the Twentieth Century ECON115, _upper division undergraduate economic history_, Spring 2019, Spring 2022
 
 ## Universidad del Pacífico, Peru
 Teaching Assistant:
