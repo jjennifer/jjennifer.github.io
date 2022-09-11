@@ -14,7 +14,7 @@ redirect_from:
 * The World Economy in the Twentieth Century ECON 115, _upper division undergraduate economic history_, Spring 2019, Spring 2022
 
 <details>
-<summary> <em><strong>Selected students' feedback</strong></em></summary>
+<summary> <em>Selected students' feedback</em></summary>
 
 <blockquote>
 "Joan's material was super organized and clear. She explained things well and simply. She was very accommodating and made the section worth coming to. She wanted students to do well."<br>
