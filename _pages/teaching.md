@@ -16,13 +16,13 @@ redirect_from:
 <details>
 <summary>Selected students' feedback</summary>
 <br>
-_"Joan's material was super organized and clear. She explained things well and simply. She was very accommodating and made the section worth coming to. She wanted students to do well."_
+*"Joan's material was super organized and clear. She explained things well and simply. She was very accommodating and made the section worth coming to. She wanted students to do well."*
 
-_"Very prepared and has lots of knowledge about the material! Going to the section was always very helpful for my learning and helped me to understand the material better."_
+*"Very prepared and has lots of knowledge about the material! Going to the section was always very helpful for my learning and helped me to understand the material better."*
 
-_"Joan prepares useful materials that review key points, presents questions for independent study, and allows questions. Joan also has a thorough knowledge of the subject."_
+*"Joan prepares useful materials that review key points, presents questions for independent study, and allows questions. Joan also has a thorough knowledge of the subject."*
 
-_"She is very knowledgeable in the subject, and her teaching was very clear. Her slides are always neat and informative.""_ -->
+*"She is very knowledgeable in the subject, and her teaching was very clear. Her slides are always neat and informative."*
 </details>
 
 ### Professional Service
