@@ -13,9 +13,8 @@ redirect_from:
 * Topics in Economic Research ECON 191, _undergraduate economics, undergraduate thesis_, Fall 2020
 * The World Economy in the Twentieth Century ECON 115, _upper division undergraduate economic history_, Spring 2019, Spring 2022
 
-<details>
+<details open>
 <summary>Selected students' feedback</summary>
-<br>
 >"Joan's material was super organized and clear. She explained things well and simply. She was very accommodating and made the section worth coming to. She wanted students to do well."
 
 >"Very prepared and has lots of knowledge about the material! Going to the section was always very helpful for my learning and helped me to understand the material better."
