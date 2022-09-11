@@ -9,7 +9,7 @@ redirect_from:
 
   {% include base_path %}
 
-## Opportunities for Everyone: a new education platform
+## Opportunities for Everyone
 In partnership with the Ministry of Education of Peru, I am the Principal Investigator and founder of the educational intervention [Opportunities for everyone](https://www.oportunidadesparatodos.pe). This multi-year intervention was established in 2020 to investigate the barriers and discrimination that impact female students and prevent them from having equal opportunities in Peru. The intervention provides high school students and teachers with online and in-school activities that address the long-term impacts of gendered instruction and discrimination on education investments. The intervention has over 15,000 beneficiaries nationwide and intends to be scaled up. More information about the platform can be found [here](https://www.oportunidadesparatodos.pe/sobre-el-proyecto/).<br>
 <figure class="third">
 	<img class="img-responsive" style="float: right; margin: 0px 10px 10px 00px; width:20%" src="/images/OPT_3.0.png" width="50">
